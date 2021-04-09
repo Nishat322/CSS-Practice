@@ -1,0 +1,23 @@
+Basic CSS selector 
+    selector { property: value }; 
+    declaration starts with left curly brace and ends with the right curly brace
+
+
+Box-Model content -> padding -> border -> margin
+    - content -box : your content
+    - padding:  space in-between the content and its border
+    - margin: spacing outside the border 
+
+Padding/Margin CSS
+    CSS : top right bottom left / top/bottom right/left
+
+Border CSS
+    CSS : size, color, style/type
+
+Positioning CSS
+    - Static: default; renders the element in order of the document
+    - Relative: positioned relative to normal position (top, left, right, bottom)
+    - Absolute: target position inside a relative element
+    - Fixed: position to the browser window
+    - Initial: sets to default value
+    - Inherit: will inherit property of its parent element
